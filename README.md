@@ -24,7 +24,7 @@
 
 - 🎓 **B.Tech CSE** student from **Dharwad, Karnataka, India** 🇮🇳
 - 🔭 Currently building: **GenAI apps**, **full-stack projects** & **Power BI dashboards**
-- 🌱 Learning: **React.js** · **AWS Cloud** · **Advanced DAX**
+- 🌱 Learning: **React.js** · **AWS Cloud** · **Advanced DAX**. **Data Analytics**.**Mern stack**.
 - 🤝 Open to: **collaborations**, **internships** & **open source**
 - ⚡ Fun fact: I love turning messy data into beautiful, meaningful stories!
 
