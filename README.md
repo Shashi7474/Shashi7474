@@ -146,7 +146,7 @@
 <div align="center">
 
 <!-- github-profile-trophy — stable vercel deployment -->
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Shashi7474&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Shashi7474&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
