@@ -18,7 +18,7 @@
 
 ---
 
-## 👋 Hey there! I'm Shashidhar 
+## 👋 Hey there! I'm Shashidhar👨‍💻
 
 > *"I turn ideas into code and data into stories."*
 
