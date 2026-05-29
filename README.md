@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4facfe?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-toragal-ba3146357)
 [![GitHub](https://img.shields.io/badge/GitHub-a18cd1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashi7474)
-[![AI Chatbot](https://img.shields.io/badge/Live%20AI%20Bot-fbc2eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shashiaichatbot.ccbp.tech)
 ![Visitors](https://komarev.com/ghpvc/?username=Shashi7474&color=4facfe&style=for-the-badge&label=Visitors)
 
 </div>
