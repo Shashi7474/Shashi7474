@@ -1,45 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Hi%20There!%20I'm%20Shashidhar%20👋&fontSize=42&fontColor=fff&fontAlignY=38&desc=Shashidhar%20Toragal%20·%20CSE%20Student%20·%20Web%20Dev%20·%20GenAI%20·%20AWS&descAlignY=60&descSize=16"/>
-
-</div>
-
-<!-- TYPING -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+✨;Building+things+that+matter+🌱;Web+Dev+%7C+GenAI+%7C+AWS+%7C+Power+BI;Always+learning%2C+always+growing+🚀;Open+to+collabs+%26+internships+🤝" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,25:00f2fe,50:a18cd1,75:fbc2eb,100:f9a825&height=220&section=header&text=Shashidhar%20Toragal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Dev%20%7C%20GenAI%20%7C%20AWS%20%7C%20Power%20BI&descAlignY=60&descSize=17&descColor=ffffff"/>
 
 <br/>
 
-<!-- BADGES -->
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=21&pause=1000&color=4facfe&center=true&vCenter=true&width=560&lines=👋+Welcome+to+my+GitHub!;💻+Web+Developer+%26+CSE+Student;🤖+Exploring+Generative+AI;☁️+AWS+%26+Cloud+Learner;📊+Power+BI+Data+Storyteller;🚀+Always+Learning.+Always+Building!" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-toragal-ba3146357)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashi7474)
-[![AI Bot](https://img.shields.io/badge/Live-AI%20Chatbot-43E97B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shashiaichatbot.ccbp.tech)
-![Visitors](https://komarev.com/ghpvc/?username=Shashi7474&color=6c63ff&style=for-the-badge&label=Profile+Views)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4facfe?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-toragal-ba3146357)
+[![GitHub](https://img.shields.io/badge/GitHub-a18cd1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashi7474)
+[![AI Chatbot](https://img.shields.io/badge/Live%20AI%20Bot-fbc2eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shashiaichatbot.ccbp.tech)
+![Visitors](https://komarev.com/ghpvc/?username=Shashi7474&color=4facfe&style=for-the-badge&label=Visitors)
 
 </div>
 
 ---
 
-## 🙋 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="52%">
 
-- 🎓 **B.Tech CSE** · Dharwad, Karnataka, India 🇮🇳
-- 🔭 Building: **AI Chatbot** · **Amazon Clone** · **Arogya Vahini** · **Restaurant Dashboard**
-- 🌱 Learning: **React.js** · **AWS Cloud** · **Advanced DAX**
-- 🤝 Open to: **Internships** · **Collabs** · **Open Source**
-- 💬 Ask me about: **Web Dev, GenAI, Power BI**
+### 🌟 Quick Info
+
+- 🎓 **B.Tech CSE** Student
+- 📍 **Dharwad, Karnataka, India** 🇮🇳
+- 🔭 Building **GenAI Apps**, **Web Projects** & **Power BI Dashboards**
+- 🌱 Learning **React.js · AWS · Advanced DAX**
+- 🤝 Open to **Internships · Collabs · Open Source**
+- 💬 Ask me about **Web Dev, AI & Data Analytics**
 - ⚡ *"Turning raw data into beautiful stories"*
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="48%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shashi7474&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shashi7474&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4facfe&icon_color=fbc2eb&text_color=ffffff"/>
 
 </td>
 </tr>
@@ -49,13 +46,59 @@
 
 ## 🚀 Featured Projects
 
-| &nbsp; | Project | Stack | Status |
-|:---:|:---|:---|:---:|
-| 🤖 | **[Shashi AI Chatbot](https://github.com/Shashi7474/MyGenAiBot)** — Real-time GenAI chatbot with Hugging Face & clean web UI | `Python` `HuggingFace` `HTML/CSS` | [![Live](https://img.shields.io/badge/LIVE-43E97B?style=flat-square)](#) |
-| 🛒 | **[Amazon Clone](https://github.com/Shashi7474/Amazon-clone-)** — Full-fidelity Amazon shopping UI replica | `HTML` `CSS` `JavaScript` | [![Built](https://img.shields.io/badge/BUILT-6C63FF?style=flat-square)](#) |
-| 🏥 | **[Arogya Vahini](https://github.com/Shashi7474/arogya-vahini-project-1)** — Healthcare platform for community health services | `HTML` `CSS` `PHP` | [![Built](https://img.shields.io/badge/BUILT-6C63FF?style=flat-square)](#) |
-| 🍽️ | **Restaurant Analytics** — Power BI dashboard on customer orders, peak hours & revenue | `Power BI` `DAX` `Power Query` | [![Active](https://img.shields.io/badge/ACTIVE-F7971E?style=flat-square)](#) |
-| 📚 | **[DSA Vault](https://github.com/Shashi7474/DSA)** — Growing collection of Data Structures & Algorithms solutions | `C++` `Java` `Python` | [![Growing](https://img.shields.io/badge/GROWING-38B2F8?style=flat-square)](#) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Shashi AI Chatbot
+> Real-time GenAI chatbot powered by Hugging Face with a clean modern web UI — deployed live!
+
+![Python](https://img.shields.io/badge/Python-4facfe?style=flat-square&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-f9a825?style=flat-square&logo=huggingface&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-fbc2eb?style=flat-square&logo=html5&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/MyGenAiBot)
+[![Live](https://img.shields.io/badge/Live%20Demo-4facfe?style=flat-square&logo=googlechrome&logoColor=white)](https://shashiaichatbot.ccbp.tech)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Amazon Clone
+> Full-fidelity Amazon UI clone replicating the complete shopping experience and interface.
+
+![HTML](https://img.shields.io/badge/HTML-fbc2eb?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-4facfe?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-f9a825?style=flat-square&logo=javascript&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/Amazon-clone-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Arogya Vahini
+> Healthcare web platform providing health resources and services to communities.
+
+![HTML](https://img.shields.io/badge/HTML-fbc2eb?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-4facfe?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-a18cd1?style=flat-square&logo=php&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/arogya-vahini-project-1)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Restaurant Analytics
+> Power BI dashboard — customer orders, peak hours, demographics & revenue insights.
+
+![PowerBI](https://img.shields.io/badge/Power%20BI-f9a825?style=flat-square&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-4facfe?style=flat-square&logoColor=white)
+![PowerQuery](https://img.shields.io/badge/Power%20Query-a18cd1?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,32 +106,32 @@
 
 <div align="center">
 
-**Languages**
+**💙 Languages**
 
-![C](https://img.shields.io/badge/C-6C63FF?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF6B9D?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7971E?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-43E97B?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF6B9D?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-38B2F8?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-6C63FF?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-4facfe?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4facfe?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-a18cd1?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f9a825?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-fbc2eb?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-fbc2eb?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4facfe?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-a18cd1?style=for-the-badge&logo=php&logoColor=white)
 
-**Cloud & Hosting**
+**☁️ Cloud & Hosting**
 
-![AWS](https://img.shields.io/badge/AWS-F7971E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-38B2F8?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F7971E?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-43E97B?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-f9a825?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4facfe?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-f9a825?style=for-the-badge&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-a18cd1?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-4facfe?style=for-the-badge&logo=netlify&logoColor=white)
 
-**Tools & Data**
+**🗄️ Tools & Data**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F7971E?style=for-the-badge&logo=powerbi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43E97B?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-43E97B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-38B2F8?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF6B9D?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-f9a825?style=for-the-badge&logo=powerbi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4facfe?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-a18cd1?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4facfe?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fbc2eb?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -98,42 +141,52 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi7474&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
-&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi7474&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi7474&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=4facfe&text_color=ffffff"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi7474&theme=tokyonight&hide_border=true&ring=4facfe&fire=fbc2eb&currStreakLabel=4facfe"/>
 
 </div>
 
 <div align="center">
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Shashi7474&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img width="92%" src="https://github-profile-trophy.vercel.app/?username=Shashi7474&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 ---
 
 ## 🎯 Goals — 2025 / 2026
 
+<div align="center">
+
 | Status | Goal |
 |:---:|:---|
 | ✅ | Shipped **Shashi AI Chatbot** — live & running! |
 | ✅ | Completed **Amazon Clone** & **Arogya Vahini** |
 | ✅ | Built **Restaurant Analytics** Power BI Dashboard |
-| 🔄 | **AWS Cloud Practitioner** Certification |
-| 🔄 | Master **React.js** for full-stack apps |
-| 🔄 | Advanced **Power BI DAX** mastery |
-| 📌 | Contribute to an **open source** project |
-| 📌 | Launch a **personal portfolio website** |
-| 📌 | Reach **50 GitHub followers** ⭐ |
+| 🔵 | **AWS Cloud Practitioner** Certification |
+| 🟣 | Master **React.js** for full-stack apps |
+| 🟠 | Advanced **Power BI DAX** mastery |
+| 🌸 | Contribute to an **open source** project |
+| 🌸 | Launch a **personal portfolio website** |
+| ⭐ | Reach **50 GitHub followers** |
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Build Together!
+### 🌈 Let's Connect & Build Something Amazing!
 
-[![LinkedIn](https://img.shields.io/badge/Say%20Hello-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-toragal-ba3146357)
+*Open to internships, collaborations & exciting projects*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-4facfe?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-toragal-ba3146357)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashi7474)
+[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-a18cd1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashi7474)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a825,25:fbc2eb,50:a18cd1,75:00f2fe,100:4facfe&height=130&section=footer"/>
 
 </div>
