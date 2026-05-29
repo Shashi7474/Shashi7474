@@ -48,17 +48,29 @@
 
 <table>
 <tr>
+<td width="100%" valign="top" colspan="2">
+
+### 🍽️ Restaurant Customer Analytics Dashboard &nbsp; ⭐ &nbsp; Featured Project
+> End-to-end Power BI dashboard analyzing restaurant customer data — orders, peak dining hours, customer demographics, revenue trends & key business insights using DAX and Power Query.
+
+![PowerBI](https://img.shields.io/badge/Power%20BI-f9a825?style=flat-square&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-4facfe?style=flat-square&logoColor=white)
+![PowerQuery](https://img.shields.io/badge/Power%20Query-a18cd1?style=flat-square&logoColor=white)
+![DataAnalytics](https://img.shields.io/badge/Data%20Analytics-fbc2eb?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 Shashi AI Chatbot
-> Real-time GenAI chatbot powered by Hugging Face with a clean modern web UI — deployed live!
+> Real-time GenAI chatbot powered by Hugging Face with a clean modern web UI.
 
 ![Python](https://img.shields.io/badge/Python-4facfe?style=flat-square&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-f9a825?style=flat-square&logo=huggingface&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-fbc2eb?style=flat-square&logo=html5&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/MyGenAiBot)
-[![Live](https://img.shields.io/badge/Live%20Demo-4facfe?style=flat-square&logo=googlechrome&logoColor=white)](https://shashiaichatbot.ccbp.tech)
 
 </td>
 <td width="50%" valign="top">
@@ -89,12 +101,14 @@
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Restaurant Analytics
-> Power BI dashboard — customer orders, peak hours, demographics & revenue insights.
+### 📚 DSA Vault
+> Growing collection of Data Structures & Algorithms — arrays, trees, graphs & DP.
 
-![PowerBI](https://img.shields.io/badge/Power%20BI-f9a825?style=flat-square&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-4facfe?style=flat-square&logoColor=white)
-![PowerQuery](https://img.shields.io/badge/Power%20Query-a18cd1?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4facfe?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-fbc2eb?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-a18cd1?style=flat-square&logo=python&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/DSA)
 
 </td>
 </tr>
