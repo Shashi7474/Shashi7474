@@ -20,18 +20,18 @@
 ```java
 public class Shashidhar {
 
-    String name     = "Shashidhar Toragal";
-    String location = "Dharwad, Karnataka, India";
-    String phone    = "+91 9945617674";
-    String degree   = "B.E. Computer Science Engineering (CGPA: 8.25)";
-    String college  = "R.T.E. Society's Rural Engineering College, Hulkoti";
-    int    batch    = 2028; // Expected graduation
+    name     = "Shashidhar Toragal";
+    location = "Dharwad, Karnataka, India";
+    phone    = "+91 9945617674";
+    degree   = "B.E. Computer Science Engineering (CGPA: 8.25)";
+    college  = "R.T.E. Society's Rural Engineering College, Hulkoti";
+    batch    = 2028; // Expected graduation
 
-    String[] roles             = { "Data Analyst Intern @ Thiranex", "Campus Ambassador x3" };
+    roles             = { "Data Analyst Intern @ Thiranex", "Campus Ambassador x3" };
     String[] currentlyLearning = { "Advanced Power BI", "Cloud Architecture", "Advanced GenAI" };
     String[] languages         = { "Kannada (Native)", "English (Proficient)", "Hindi (Conversational)" };
 
-    String goal = "Design scalable applications & data-driven solutions for impactful teams";
+goal = "Design scalable applications & data-driven solutions for impactful teams";
 }
 ```
 
@@ -39,6 +39,10 @@ public class Shashidhar {
 - 📊 **Data Analyst Intern at Thiranex** — Power BI dashboards, HR & IPL analytics, customer segmentation
 - 🤖 Passionate about **Generative AI, Prompt Engineering & Encoder-Decoder Architectures**
 - 🏆 **Hackaura 2K26** Hackathon Participant
+- 🏆**Hackfusion 2k26** Hackathon Participant
+- 🏆**Ipl crunch 2k26** Hackathon Participant
+- 🏆**Amazon 6.0** Hackathon Participant
+- 🏆**Cash karo**Abassador role participant 
 - 🌐 Campus Ambassador at **SmartED Innovations, LaunchED Global & Unilox**
 - 📫 Reach me: **storagal4@gmail.com** | **+91 9945617674**
 
