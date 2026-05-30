@@ -1,152 +1,153 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,25:00f2fe,50:a18cd1,75:fbc2eb,100:f9a825&height=220&section=header&text=Shashidhar%20Toragal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Web%20Dev%20%7C%20GenAI%20%7C%20AWS%20%7C%20Power%20BI&descAlignY=60&descSize=17&descColor=ffffff"/>
+# 👋 Hi, I'm Shashidhar Toragal
 
-<br/>
+**Computer Science Engineering Student · Full-Stack Developer · GenAI Enthusiast · Data Analyst**
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=21&pause=1000&color=4facfe&center=true&vCenter=true&width=560&lines=👋+Welcome+to+my+GitHub!;💻+Web+Developer+%26+CSE+Student;🤖+Exploring+Generative+AI;☁️+AWS+%26+Cloud+Learner;📊+Power+BI+Data+Storyteller;🚀+Always+Learning.+Always+Building!" alt="Typing SVG" />
+*Building smart solutions from Dharwad, Karnataka 🇮🇳*
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4facfe?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-toragal-ba3146357)
-[![GitHub](https://img.shields.io/badge/GitHub-a18cd1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashi7474)
-![Visitors](https://komarev.com/ghpvc/?username=Shashi7474&color=4facfe&style=for-the-badge&label=Visitors)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashidhar--toragal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shashidhar-toragal-ba3146357)
+[![GitHub](https://img.shields.io/badge/GitHub-Shashi7474-181717?style=flat-square&logo=github)](https://github.com/Shashi7474)
+[![Email](https://img.shields.io/badge/Email-storagal4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:storagal4@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shashi7474&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/Shashi7474)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="52%">
+```java
+public class Shashidhar {
 
-### 🌟 Quick Info
--✨Shashidhar Mahadev Toragal 
-- 🎓 **B.Tech CSE** Student
-- 📍 **Dharwad, Karnataka, India** 🇮🇳
-- 🔭 Building **GenAI Apps**, **Web Projects** & **Power BI Dashboards**
-- 🌱 Learning **React.js · AWS · Advanced DAX**
-- 🤝 Open to **Internships · Collabs · Open Source**
-- 💬 Ask me about **Web Dev, AI & Data Analytics**
-- ⚡ *"Turning raw data into beautiful stories"*
+    String name     = "Shashidhar Toragal";
+    String location = "Dharwad, Karnataka, India";
+    String phone    = "+91 9945617674";
+    String degree   = "B.E. Computer Science Engineering (CGPA: 8.25)";
+    String college  = "R.T.E. Society's Rural Engineering College, Hulkoti";
+    int    batch    = 2028; // Expected graduation
 
-</td>
-<td valign="top" width="48%">
+    String[] roles             = { "Data Analyst Intern @ Thiranex", "Campus Ambassador x3" };
+    String[] currentlyLearning = { "Advanced Power BI", "Cloud Architecture", "Advanced GenAI" };
+    String[] languages         = { "Kannada (Native)", "English (Proficient)", "Hindi (Conversational)" };
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shashi7474&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4facfe&icon_color=fbc2eb&text_color=ffffff"/>
+    String goal = "Design scalable applications & data-driven solutions for impactful teams";
+}
+```
 
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="100%" valign="top" colspan="2">
-
-### 🍽️ Restaurant Customer Analytics Dashboard &nbsp; ⭐ &nbsp; Featured Project
-> End-to-end Power BI dashboard analyzing restaurant customer data — orders, peak dining hours, customer demographics, revenue trends & key business insights using DAX and Power Query.
-
-![PowerBI](https://img.shields.io/badge/Power%20BI-f9a825?style=flat-square&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-4facfe?style=flat-square&logoColor=white)
-![PowerQuery](https://img.shields.io/badge/Power%20Query-a18cd1?style=flat-square&logoColor=white)
-![DataAnalytics](https://img.shields.io/badge/Data%20Analytics-fbc2eb?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Shashi AI Chatbot
-> Real-time GenAI chatbot powered by Hugging Face with a clean modern web UI.
-
-![Python](https://img.shields.io/badge/Python-4facfe?style=flat-square&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-f9a825?style=flat-square&logo=huggingface&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-fbc2eb?style=flat-square&logo=html5&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/MyGenAiBot)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Amazon Clone
-> Full-fidelity Amazon UI clone replicating the complete shopping experience and interface.
-
-![HTML](https://img.shields.io/badge/HTML-fbc2eb?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-4facfe?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JS-f9a825?style=flat-square&logo=javascript&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/Amazon-clone-)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Arogya Vahini
-> Healthcare web platform providing health resources and services to communities.
-
-![HTML](https://img.shields.io/badge/HTML-fbc2eb?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-4facfe?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-a18cd1?style=flat-square&logo=php&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/arogya-vahini-project-1)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 DSA Vault
-> Growing collection of Data Structures & Algorithms — arrays, trees, graphs & DP.
-
-![C++](https://img.shields.io/badge/C++-4facfe?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-fbc2eb?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-a18cd1?style=flat-square&logo=python&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View%20Repo-a18cd1?style=flat-square&logo=github&logoColor=white)](https://github.com/Shashi7474/DSA)
-
-</td>
-</tr>
-</table>
+- 🎓 **B.E. CSE** student with **8.25 CGPA** at Rural Engineering College, Hulkoti
+- 📊 **Data Analyst Intern at Thiranex** — Power BI dashboards, HR & IPL analytics, customer segmentation
+- 🤖 Passionate about **Generative AI, Prompt Engineering & Encoder-Decoder Architectures**
+- 🏆 **Hackaura 2K26** Hackathon Participant
+- 🌐 Campus Ambassador at **SmartED Innovations, LaunchED Global & Unilox**
+- 📫 Reach me: **storagal4@gmail.com** | **+91 9945617674**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Programming Languages**
 
-**💙 Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![C](https://img.shields.io/badge/C-4facfe?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4facfe?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-a18cd1?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f9a825?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-fbc2eb?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-fbc2eb?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4facfe?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-a18cd1?style=for-the-badge&logo=php&logoColor=white)
+**Web Technologies**
 
-**☁️ Cloud & Hosting**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-f9a825?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4facfe?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-f9a825?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-a18cd1?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-4facfe?style=for-the-badge&logo=netlify&logoColor=white)
+**Database**
 
-**🗄️ Tools & Data**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-f9a825?style=for-the-badge&logo=powerbi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-4facfe?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-a18cd1?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4facfe?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-fbc2eb?style=for-the-badge&logo=git&logoColor=white)
+**Data & Analytics**
 
-</div>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**AI / ML**
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 📊 Data Analyst Intern — *Thiranex*
+
+> Worked on end-to-end data analysis and visualization projects using **Power BI**, transforming raw datasets into actionable business insights through interactive dashboards.
+
+**Power BI Dashboards Built:**
+
+| Dashboard | Description |
+|-----------|-------------|
+| 👥 **HR Analytics** | Workforce insights — attrition, headcount, performance & hiring trends |
+| 🏏 **IPL 2K26 Analysis** | Match stats, player performance, team comparisons & season trends |
+| 🛒 **Customer Segmentation Analysis** | RFM-based segmentation to identify high-value customer groups |
+
+`Power BI` `SQL` `Data Visualization` `DAX` `Business Intelligence` `Excel`
+
+---
+
+### 🌐 Campus Ambassador — *SmartED Innovations* `2024 – 2025`
+> Led promotional campaigns, coordinated student outreach, managed social media & offline channels. Increased student engagement through targeted campaigns.
+
+### 🌐 Campus Ambassador — *LaunchED Global* `2024 – 2025`
+> Executed outreach initiatives, organized orientation sessions, streamlined student onboarding. Contributed to measurable growth in sign-ups and participation.
+
+### 🌐 Campus Ambassador — *Unilox* `2024 – 2025`
+> Promoted services through events & demos, tracked adoption metrics, organized workshops. Boosted service adoption through consistent multi-channel outreach.
+
+---
+
+## 🚀 Projects
+
+### 🤖 GenAI Chatbot
+> AI-powered chatbot using APIs and prompt engineering — optimized conversation flows for improved relevance and user engagement.
+
+`Python` `Generative AI` `Prompt Engineering` `API Integration`
+
+---
+
+### 🛒 Amazon Clone
+> Fully responsive e-commerce platform replicating Amazon's UI/UX — pixel-accurate design with HTML5 & CSS3 best practices.
+
+`HTML5` `CSS3` `Responsive Design`
+
+---
+
+### 🏥 Arogya Vahini
+> Smart healthcare management system with real-time appointment scheduling, patient record management, and workflow optimization for hospital environments.
+
+`Java` `MySQL` `Healthcare Tech`
+
+---
+
+## 🏆 Certifications & Achievements
+
+| Badge | Certification |
+|-------|--------------|
+| ☁️ | **AWS Solutions Architecture** |
+| 🤖 | **Tata GenAI** |
+| 🔐 | **Tata Cybersecurity** |
+| 🚄 | **Siemens Mobility** |
+| 🔗 | **Hashgraph** |
+| 💡 | **Prompt Engineering with GitHub Copilot** — Simplilearn |
+| 🧠 | **Encoder-Decoder Architecture** |
+| 🏢 | **HP Life — AI for Business Professionals** |
+| 📘 | **HP Life — AI for Beginners** |
+| 📊 | **HP Life — Introduction to Data Science & Analytics** |
+| 🏆 | **Hackaura 2K26 Hackathon Participant** |
 
 ---
 
@@ -154,33 +155,30 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi7474&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=4facfe&text_color=ffffff"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi7474&theme=tokyonight&hide_border=true&ring=4facfe&fire=fbc2eb&currStreakLabel=4facfe"/>
+![Shashidhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashi7474&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi7474&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8)
 
-<div align="center">
-<img width="92%" src="https://github-profile-trophy.vercel.app/?username=Shashi7474&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Shashi7474&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+
 </div>
 
 ---
 
-## 🎯 Goals — 2025 / 2026
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashi7474&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-| Status | Goal |
-|:---:|:---|
-| ✅ | Shipped **Shashi AI Chatbot** — live & running! |
-| ✅ | Completed **Amazon Clone** & **Arogya Vahini** |
-| ✅ | Built **Restaurant Analytics** Power BI Dashboard |
-| 🔵 | **AWS Cloud Practitioner** Certification |
-| 🟣 | Master **React.js** for full-stack apps |
-| 🟠 | Advanced **Power BI DAX** mastery |
-| 🌸 | Contribute to an **open source** project |
-| 🌸 | Launch a **personal portfolio website** |
-| ⭐ | Reach **50 GitHub followers** |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shashidhar-toragal-ba3146357)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shashi7474)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:storagal4@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_9945617674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919945617674)
 
 </div>
 
@@ -188,18 +186,8 @@
 
 <div align="center">
 
-### 🌈 Let's Connect & Build Something Amazing!
+*"Turning data into decisions, and ideas into impactful software."*
 
-*Open to internships, collaborations & exciting projects*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-4facfe?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashidhar-toragal-ba3146357)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-a18cd1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashi7474)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a825,25:fbc2eb,50:a18cd1,75:00f2fe,100:4facfe&height=130&section=footer"/>
+**⭐ From [Shashi7474](https://github.com/Shashi7474) — Dharwad, Karnataka 🇮🇳**
 
 </div>
