@@ -23,7 +23,7 @@
 <td valign="top" width="52%">
 
 ### 🌟 Quick Info
-
+-✨Shashidhar Mahadev Toragal 
 - 🎓 **B.Tech CSE** Student
 - 📍 **Dharwad, Karnataka, India** 🇮🇳
 - 🔭 Building **GenAI Apps**, **Web Projects** & **Power BI Dashboards**
