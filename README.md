@@ -28,8 +28,8 @@ public class Shashidhar {
     batch    = 2028; // Expected graduation
 
     roles             = { "Data Analyst Intern @ Thiranex", "Campus Ambassador x3" };
-    String[] currentlyLearning = { "Advanced Power BI", "Cloud Architecture", "Advanced GenAI" };
-    String[] languages         = { "Kannada (Native)", "English (Proficient)", "Hindi (Conversational)" };
+    currentlyLearning = { "Advanced Power BI", "Cloud Architecture", "Advanced GenAI" };
+languages         = { "Kannada (Native)", "English (Proficient)", "Hindi (Conversational)" };
 
 goal = "Design scalable applications & data-driven solutions for impactful teams";
 }
@@ -40,9 +40,9 @@ goal = "Design scalable applications & data-driven solutions for impactful teams
 - 🤖 Passionate about **Generative AI, Prompt Engineering & Encoder-Decoder Architectures**
 - 🏆 **Hackaura 2K26** Hackathon Participant
 - 🏆**Hackfusion 2k26** Hackathon Participant
-- 🏆**Ipl crunch 2k26** Hackathon Participant
+- 🏆**Ipl crunch 2k26 wooble** Hackathon Participant
 - 🏆**Amazon 6.0** Hackathon Participant
-- 🏆**Cash karo**Abassador role participant 
+- 🏆**Cash karo** Ambassador role participant 
 - 🌐 Campus Ambassador at **SmartED Innovations, LaunchED Global & Unilox**
 - 📫 Reach me: **storagal4@gmail.com** | **+91 9945617674**
 
