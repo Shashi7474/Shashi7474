@@ -151,7 +151,7 @@ goal = "Design scalable applications & data-driven solutions for impactful teams
 | 🏢 | **HP Life — AI for Business Professionals** |
 | 📘 | **HP Life — AI for Beginners** |
 | 📊 | **HP Life — Introduction to Data Science & Analytics** |
-| 🏆 | **Hackaura 2K26 Hackathon Participant** |
+| 🏆 | **Hackaura 2K26 and Hackfusion Hackathon Participant** |
 
 ---
 
