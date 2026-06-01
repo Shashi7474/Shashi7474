@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shashidhar Toragal
+# 👋 Hi, I'm Shashidhar Mahadev Toragal
 
 **Computer Science Engineering Student · Full-Stack Developer · GenAI Enthusiast · Data Analyst**
 
