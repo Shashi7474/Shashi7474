@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Shashidhar Mahadev Toragal
+# 👋 Hi, I'm Shashidhar Toragal
 
-**Computer Science Engineering Student · Full-Stack Developer · GenAI Enthusiast · Data Analyst**
+**B.E. CSE Student · Data Analyst Intern @ Thiranex · Power BI · GenAI · AWS**
 
-*Building smart solutions from Dharwad, Karnataka 🇮🇳*
+*Building data-driven solutions & real-world projects from Dharwad, Karnataka 🇮🇳*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shashidhar--toragal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shashidhar-toragal-ba3146357)
 [![GitHub](https://img.shields.io/badge/GitHub-Shashi7474-181717?style=flat-square&logo=github)](https://github.com/Shashi7474)
@@ -20,31 +20,28 @@
 ```java
 public class Shashidhar {
 
-    name     = "Shashidhar Toragal";
-    location = "Dharwad, Karnataka, India";
-    phone    = "+91 9945617674";
-    degree   = "B.E. Computer Science Engineering (CGPA: 8.25)";
-    college  = "R.T.E. Society's Rural Engineering College, Hulkoti";
-    batch    = 2028; // Expected graduation
+    String name       = "Shashidhar Toragal";
+    String location   = "Dharwad, Karnataka, India";
+    String degree     = "B.E. Computer Science Engineering (CGPA: 8.25)";
+    String college    = "R.T.E. Society's Rural Engineering College, Hulkoti";
+    String internship = "Data Analyst Intern @ Thiranex";
+    int    batch      = 2028;
 
-    roles             = { "Data Analyst Intern @ Thiranex", "Campus Ambassador x3" };
-    currentlyLearning = { "Advanced Power BI", "Cloud Architecture", "Advanced GenAI" };
-languages         = { "Kannada (Native)", "English (Proficient)", "Hindi (Conversational)" };
+    String[] skills            = { "Power BI", "Java", "Python", "SQL", "GenAI", "Prompt Engineering" };
+    String[] currentlyLearning = { "Advanced Power BI", "Cloud Architecture", "Advanced GenAI" };
+    String[] languages         = { "Kannada (Native)", "English (Proficient)", "Hindi (Conversational)" };
 
-goal = "Design scalable applications & data-driven solutions for impactful teams";
+    String goal = "Turning data into decisions & ideas into impactful software";
 }
 ```
 
-- 🎓 **B.E. CSE** student with **8.25 CGPA** at Rural Engineering College, Hulkoti
-- 📊 **Data Analyst Intern at Thiranex** — Power BI dashboards, HR & IPL analytics, customer segmentation
-- 🤖 Passionate about **Generative AI, Prompt Engineering & Encoder-Decoder Architectures**
+- 🎓 **B.E. CSE** student with **8.25 CGPA** at Rural Engineering College, Hulkoti (2024–2028)
+- 📊 **Data Analyst Intern @ Thiranex** — HR Analytics, IPL 2K26 & Customer Segmentation dashboards
+- 🤖 Skilled in **Generative AI, Prompt Engineering & Encoder-Decoder Architectures**
+- ☁️ **AWS Solutions Architecture** certified
 - 🏆 **Hackaura 2K26** Hackathon Participant
-- 🏆**Hackfusion 2k26** Hackathon Participant
-- 🏆**Ipl crunch 2k26 wooble** Hackathon Participant
-- 🏆**Amazon 6.0** Hackathon Participant
-- 🏆**Cash karo** Ambassador role participant 
 - 🌐 Campus Ambassador at **SmartED Innovations, LaunchED Global & Unilox**
-- 📫 Reach me: **storagal4@gmail.com** | **+91 9945617674**
+- 📫 **storagal4@gmail.com** · **+91 9945617674**
 
 ---
 
@@ -81,7 +78,7 @@ goal = "Design scalable applications & data-driven solutions for impactful teams
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/API_Integration-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -89,69 +86,51 @@ goal = "Design scalable applications & data-driven solutions for impactful teams
 
 ### 📊 Data Analyst Intern — *Thiranex*
 
-> Worked on end-to-end data analysis and visualization projects using **Power BI**, transforming raw datasets into actionable business insights through interactive dashboards.
+> Designed and delivered end-to-end **Power BI dashboards** transforming raw datasets into actionable business insights through interactive visualizations and data storytelling.
 
-**Power BI Dashboards Built:**
+**Dashboards Delivered:**
 
-| Dashboard | Description |
-|-----------|-------------|
-| 👥 **HR Analytics** | Workforce insights — attrition, headcount, performance & hiring trends |
-| 🏏 **IPL 2K26 Analysis** | Match stats, player performance, team comparisons & season trends |
-| 🛒 **Customer Segmentation Analysis** | RFM-based segmentation to identify high-value customer groups |
+| Dashboard | Focus Area |
+|-----------|-----------|
+| 👥 **HR Analytics** | Attrition, headcount trends, performance & hiring insights |
+| 🏏 **IPL 2K26 Analysis** | Match stats, player performance & team comparisons |
+| 🛒 **Customer Segmentation Analysis** | RFM-based segmentation to identify high-value customers |
 
-`Power BI` `SQL` `Data Visualization` `DAX` `Business Intelligence` `Excel`
+`Power BI` `SQL` `DAX` `Data Visualization` `Business Intelligence` `Excel`
 
 ---
 
 ### 🌐 Campus Ambassador — *SmartED Innovations* `2024 – 2025`
-> Led promotional campaigns, coordinated student outreach, managed social media & offline channels. Increased student engagement through targeted campaigns.
+> Led campaigns, coordinated student outreach, managed social media & offline channels to drive awareness and onboarding.
 
 ### 🌐 Campus Ambassador — *LaunchED Global* `2024 – 2025`
-> Executed outreach initiatives, organized orientation sessions, streamlined student onboarding. Contributed to measurable growth in sign-ups and participation.
+> Executed outreach initiatives, organized orientation sessions, streamlined student onboarding and registration.
 
 ### 🌐 Campus Ambassador — *Unilox* `2024 – 2025`
-> Promoted services through events & demos, tracked adoption metrics, organized workshops. Boosted service adoption through consistent multi-channel outreach.
+> Promoted services via events & demos, tracked adoption metrics, organized workshops for multi-channel engagement.
 
 ---
 
 ## 🚀 Projects
 
 ### 🤖 GenAI Chatbot
-> AI-powered chatbot using APIs and prompt engineering — optimized conversation flows for improved relevance and user engagement.
+> AI-powered chatbot built with APIs and prompt engineering — optimized conversation flows for improved relevance and user engagement.
 
 `Python` `Generative AI` `Prompt Engineering` `API Integration`
 
 ---
 
 ### 🛒 Amazon Clone
-> Fully responsive e-commerce platform replicating Amazon's UI/UX — pixel-accurate design with HTML5 & CSS3 best practices.
+> Fully responsive e-commerce platform replicating Amazon's UI/UX with pixel-accurate design and frontend best practices.
 
 `HTML5` `CSS3` `Responsive Design`
 
 ---
 
 ### 🏥 Arogya Vahini
-> Smart healthcare management system with real-time appointment scheduling, patient record management, and workflow optimization for hospital environments.
+> Smart healthcare management system featuring real-time appointment scheduling, patient record management and workflow optimization for hospital environments.
 
 `Java` `MySQL` `Healthcare Tech`
-
----
-
-## 🏆 Certifications & Achievements
-
-| Badge | Certification |
-|-------|--------------|
-| ☁️ | **AWS Solutions Architecture** |
-| 🤖 | **Tata GenAI** |
-| 🔐 | **Tata Cybersecurity** |
-| 🚄 | **Siemens Mobility** |
-| 🔗 | **Hashgraph** |
-| 💡 | **Prompt Engineering with GitHub Copilot** — Simplilearn |
-| 🧠 | **Encoder-Decoder Architecture** |
-| 🏢 | **HP Life — AI for Business Professionals** |
-| 📘 | **HP Life — AI for Beginners** |
-| 📊 | **HP Life — Introduction to Data Science & Analytics** |
-| 🏆 | **Hackaura 2K26 and Hackfusion Hackathon Participant** |
 
 ---
 
@@ -169,9 +148,37 @@ goal = "Design scalable applications & data-driven solutions for impactful teams
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shashi7474&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashi7474&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&hide_border=true)
+
+---
+
+## 🎖️ Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| ☁️ AWS Solutions Architecture | Amazon Web Services |
+| 🤖 Tata GenAI | Tata Group |
+| 🔐 Tata Cybersecurity | Tata Group |
+| 🚄 Siemens Mobility | Siemens |
+| 🔗 Hashgraph | Hedera |
+| 💡 Prompt Engineering with GitHub Copilot | Simplilearn |
+| 🧠 Encoder-Decoder Architecture | — |
+| 🏢 AI for Business Professionals | HP Life |
+| 📘 AI for Beginners | HP Life |
+| 📊 Introduction to Data Science & Analytics | HP Life |
+| 🏆 Hackaura 2K26 Hackathon | Participant |
 
 ---
 
@@ -182,7 +189,7 @@ goal = "Design scalable applications & data-driven solutions for impactful teams
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shashidhar-toragal-ba3146357)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shashi7474)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:storagal4@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_9945617674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919945617674)
+[![Phone](https://img.shields.io/badge/WhatsApp-%2B91_9945617674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919945617474)
 
 </div>
 
