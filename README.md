@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shashidhar Toragal
+# 👋 Hi, I'm Shashidhar Toragal.
 
 **B.E. CSE Student · Data Analyst Intern @ Thiranex · Power BI · GenAI · AWS**
 
