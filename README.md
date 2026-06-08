@@ -36,7 +36,7 @@ public class Shashidhar {
 ```
 
 - 🎓 **B.E. CSE** student with **8.25 CGPA** at Rural Engineering College, Hulkoti (2024–2028)
-- 📊 **Data Analyst Intern @ Thiranex** — HR Analytics, IPL 2K26 & Customer Segmentation dashboards
+- 📊 **Data Analyst Intern @ Thiranex** and @ **cognifyz**  — HR Analytics, IPL 2K26 & Customer Segmentation dashboards
 - 🤖 Skilled in **Generative AI, Prompt Engineering & Encoder-Decoder Architectures**
 - ☁️ **AWS Solutions Architecture** certified
 - 🏆 **Hackaura 2K26** Hackathon Participant
