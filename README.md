@@ -85,7 +85,7 @@ public class Shashidhar {
 ## 💼 Experience
 
 ### 📊 Data Analyst Intern — *Thiranex*
-
+and **cognifyz technologies**
 > Designed and delivered end-to-end **Power BI dashboards** transforming raw datasets into actionable business insights through interactive visualizations and data storytelling.
 
 **Dashboards Delivered:**
