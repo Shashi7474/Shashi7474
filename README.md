@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shashidhar Toragal.
 
-**B.E. CSE Student · Data Analyst Intern @ Thiranex · Power BI · GenAI · AWS**
+**B.E. CSE Student · Data Analyst Intern @ Thiranex and @cognifyz technology's· Power BI · GenAI · AWS**
 
 *Building data-driven solutions & real-world projects from Dharwad, Karnataka 🇮🇳*
 
