@@ -1,176 +1,239 @@
 <div align="center">
 
-# 👋 Hi, I'm Shashidhar Toragal.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=220&section=header&text=Shashidhar%20Toragal&fontSize=46&fontColor=00FFF7&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20Intern%20%7C%20Power%20BI%20%7C%20GenAI%20%7C%20AWS&descAlignY=55&descSize=17&descColor=B026FF" width="100%"/>
 
-**B.E. CSE Student · Data Analyst Intern @ Thiranex and @cognifyz technology's· Power BI · GenAI · AWS**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FFF7&center=true&vCenter=true&repeat=true&width=650&background=00000000&lines=Turning+Data+Into+Decisions...;Power+BI+%7C+SQL+%7C+GenAI+Builder;B.E.+CSE+%40+RTE+Society+Hulkoti;Data+Analyst+Intern+%40+Thiranex" alt="Typing SVG" />
 
-*Building data-driven solutions & real-world projects from Dharwad, Karnataka 🇮🇳*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashidhar--toragal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shashidhar-toragal-ba3146357)
-[![GitHub](https://img.shields.io/badge/GitHub-Shashi7474-181717?style=flat-square&logo=github)](https://github.com/Shashi7474)
-[![Email](https://img.shields.io/badge/Email-storagal4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:storagal4@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shashi7474&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/Shashi7474)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFF7&labelColor=000000)](https://linkedin.com/in/shashidhar-toragal-ba3146357)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=B026FF&labelColor=000000)](https://github.com/Shashi7474)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFF7&labelColor=000000)](mailto:storagal4@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shashi7474&style=for-the-badge&color=000000&labelColor=000000&label=PROFILE+VIEWS)](https://github.com/Shashi7474)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=1000" width="100%"/>
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
-```java
-public class Shashidhar {
-
-    String name       = "Shashidhar Toragal";
-    String location   = "Dharwad, Karnataka, India";
-    String degree     = "B.E. Computer Science Engineering (CGPA: 8.25)";
-    String college    = "R.T.E. Society's Rural Engineering College, Hulkoti";
-    String internship = "Data Analyst Intern @ Thiranex";
-    int    batch      = 2028;
-
-    String[] skills            = { "Power BI", "Java", "Python", "SQL", "GenAI", "Prompt Engineering" };
-    String[] currentlyLearning = { "Advanced Power BI", "Cloud Architecture", "Advanced GenAI" };
-    String[] languages         = { "Kannada (Native)", "English (Proficient)", "Hindi (Conversational)" };
-
-    String goal = "Turning data into decisions & ideas into impactful software";
-}
+```yaml
+name: Shashidhar Toragal
+location: Dharwad, Karnataka, India 🇮🇳
+degree: B.E. Computer Science Engineering (CGPA → 8.25)
+college: R.T.E. Society's Rural Engineering College, Hulkoti
+batch: "2024 – 2028"
+current_role: Data Analyst Intern @ Thiranex
+also_worked_at: [Cognifyz Technologies, Internshala, SmartED, LaunchED, Unilox]
+focus: [Power BI, SQL, Generative AI, Prompt Engineering]
+mission: "Turning data into decisions & ideas into impactful software ⚡"
 ```
 
-- 🎓 **B.E. CSE** student with **8.25 CGPA** at Rural Engineering College, Hulkoti (2024–2028)
-- 📊 **Data Analyst Intern @ Thiranex** and @ **cognifyz**  — HR Analytics, IPL 2K26 & Customer Segmentation dashboards
-- 🤖 Skilled in **Generative AI, Prompt Engineering & Encoder-Decoder Architectures**
+<details open>
+<summary><b>🔋 Quick Facts</b></summary>
+<br/>
+
+- 🎓 **B.E. CSE** student, **8.25 CGPA**, Batch 2024–2028
+- 📊 **Data Analyst Intern @ Thiranex** — dashboards across HR, customer & sales analytics
+- 🧩 **Power BI Intern @ Cognifyz Technologies** (Jun–Jul 2026)
+- 🌐 **Student Partner @ Internshala** (Jun–Jul 2026)
+- 🏆 Hackaura 2K26 · Amazon 6.0 · IPL Crunch 2K26 by Wooble — Hackathon Participant
 - ☁️ **AWS Solutions Architecture** certified
-- 🏆 **Hackaura 2K26** Hackathon Participant
-- 🌐 Campus Ambassador at **SmartED Innovations, LaunchED Global & Unilox**
-- 📫 **storagal4@gmail.com** · **+91 9945617674**
+- 📫 Reach me: **storagal4@gmail.com**
 
----
+</details>
 
-## 🛠️ Tech Stack
+<br/>
 
-**Programming Languages**
+## 🧬 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-**Web Technologies**
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FFF7&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=B026FF&labelColor=000000)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FFF7&labelColor=000000)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=B026FF&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFF7&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=B026FF&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FFF7&labelColor=000000)
+![PowerBI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=B026FF&labelColor=000000)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00FFF7&labelColor=000000)
+![GenAI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=B026FF&labelColor=000000)
+![PromptEng](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=00FFF7&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=B026FF&labelColor=000000)
+![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFF7&labelColor=000000)
+![Postman](https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logo=postman&logoColor=B026FF&labelColor=000000)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</div>
 
-**Database**
+<details>
+<summary><b>📈 Skill Proficiency (click to expand)</b></summary>
+<br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+| Skill | Level |
+|---|---|
+| Power BI / DAX | ████████████████░░ 85% |
+| SQL | ███████████████░░░ 80% |
+| Java | ██████████████░░░░ 75% |
+| Python | █████████████░░░░░ 70% |
+| Generative AI / Prompt Engineering | ██████████████░░░░ 75% |
+| HTML5 / CSS3 | ████████████░░░░░░ 65% |
 
-**Data & Analytics**
+</details>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<br/>
 
-**AI / ML**
+## 💼 Professional Experience
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+<table>
+<tr><td>
 
-**Tools**
+**📊 Data Analyst Intern — Thiranex** <sub>`Apr 2026 – May 2026`</sub>
+Analysed business datasets for actionable insight; built and maintained Power BI dashboards to track KPIs; partnered with teams to resolve data-quality issues and streamline reporting workflows.
+`Power BI` `SQL` `Excel` `Data Storytelling`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/API_Integration-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</td></tr>
+<tr><td>
 
----
+**⚡ Power BI Intern — Cognifyz Technologies** <sub>`Jun 2026 – Jul 2026`</sub>
+Developed interactive Power BI dashboards for data-driven decisions; performed cleaning, transformation & modelling via Power Query and DAX; translated business requirements into visual analytics solutions.
+`Power BI` `Power Query` `DAX`
 
-## 💼 Experience
+</td></tr>
+<tr><td>
 
-### 📊 Data Analyst Intern — *Thiranex*
-and **cognifyz technologies**
-> Designed and delivered end-to-end **Power BI dashboards** transforming raw datasets into actionable business insights through interactive visualizations and data storytelling.
+**🌐 Student Partner — Internshala** <sub>`Jun 2026 – Jul 2026`</sub>
+Promoted Internshala's training and internship programs on campus; ran awareness sessions/webinars; guided peers on applications and career resources; tracked outreach and sign-up performance.
 
-**Dashboards Delivered:**
+</td></tr>
+<tr><td>
 
-| Dashboard | Focus Area |
-|-----------|-----------|
-| 👥 **HR Analytics** | Attrition, headcount trends, performance & hiring insights |
-| 🏏 **IPL 2K26 Analysis** | Match stats, player performance & team comparisons |
-| 🛒 **Customer Segmentation Analysis** | RFM-based segmentation to identify high-value customers |
+**🌐 Campus Ambassador — LaunchED Global** <sub>`Mar 2026 – Apr 2026`</sub>
+Executed outreach initiatives and onboarding sessions; represented LaunchED at college events.
+> **Impact:** Streamlined student registration; measurable growth in sign-ups.
 
-`Power BI` `SQL` `DAX` `Data Visualization` `Business Intelligence` `Excel`
+</td></tr>
+<tr><td>
 
----
+**🌐 Campus Ambassador — Unilox** <sub>`Apr 2026 – May 2026`</sub>
+Promoted Unilox via events, demos & peer outreach; tracked adoption metrics; ran workshops.
+> **Impact:** Boosted service adoption through consistent, multi-channel outreach.
 
-### 🌐 Campus Ambassador — *SmartED Innovations* `2024 – 2025`
-> Led campaigns, coordinated student outreach, managed social media & offline channels to drive awareness and onboarding.
+</td></tr>
+<tr><td>
 
-### 🌐 Campus Ambassador — *LaunchED Global* `2024 – 2025`
-> Executed outreach initiatives, organized orientation sessions, streamlined student onboarding and registration.
+**🌐 Campus Ambassador — SmartED Innovations** <sub>`Jan 2026 – Feb 2026`</sub>
+Led promotional campaigns and outreach for SmartED programs; managed social & offline channels.
+> **Impact:** Increased campus engagement; onboarded students into SmartED programs.
 
-### 🌐 Campus Ambassador — *Unilox* `2024 – 2025`
-> Promoted services via events & demos, tracked adoption metrics, organized workshops for multi-channel engagement.
+</td></tr>
+</table>
 
----
+<br/>
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👥 HR Analytics — Power BI
+Attrition, headcount trends, department performance & recruitment insights for HR decision-making.
+`Power BI` `DAX`
+
+</td>
+<td width="50%">
+
+### 🛒 Blinkit Customer Order — Power BI
+Analysed order patterns, delivery performance & category trends to support operations.
+`Power BI` `Data Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 Customer Segmentation — Power BI
+RFM-based dashboard segmenting customers by behaviour & demographics for targeted marketing.
+`Power BI` `RFM`
+
+</td>
+<td width="50%">
 
 ### 🤖 GenAI Chatbot
-> AI-powered chatbot built with APIs and prompt engineering — optimized conversation flows for improved relevance and user engagement.
+AI chatbot with API integration & prompt engineering; optimized flows for relevance & engagement.
+`Python` `GenAI` `Prompt Engineering`
 
-`Python` `Generative AI` `Prompt Engineering` `API Integration`
-
----
-
-### 🛒 Amazon Clone
-> Fully responsive e-commerce platform replicating Amazon's UI/UX with pixel-accurate design and frontend best practices.
-
-`HTML5` `CSS3` `Responsive Design`
-
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🏥 Arogya Vahini
-> Smart healthcare management system featuring real-time appointment scheduling, patient record management and workflow optimization for hospital environments.
+Smart healthcare system with real-time appointment scheduling & patient record management.
+`Java` `MySQL`
 
-`Java` `MySQL` `Healthcare Tech`
+</td>
+<td width="50%">
 
----
+### 🛍️ Amazon Clone
+Fully responsive e-commerce UI/UX clone, pixel-accurate layout & frontend best practices.
+`HTML5` `CSS3`
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shashidhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashi7474&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi7474&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shashi7474&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shashi7474&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FFF7&icon_color=B026FF&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi7474&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FFF7&text_color=c9d1d9&langs_count=8" width="35%"/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shashi7474&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://streak-stats.demolab.com?user=Shashi7474&theme=dark&hide_border=true&background=000000&ring=00FFF7&fire=B026FF&currStreakLabel=00FFF7&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi7474&theme=github-compact&bg_color=000000&color=00FFF7&line=B026FF&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
----
+<details>
+<summary><b>🏆 GitHub Trophies (click to expand)</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shashi7474&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
+</details>
 
-## 📈 Contribution Activity
+<br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashi7474&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&hide_border=true)
+## 🎖️ Certifications & Awards
 
----
+<details open>
+<summary><b>🏅 Hackathons</b></summary>
+<br/>
 
-## 🎖️ Certifications
+- 🏆 **Hackaura 2K26 Hackathon** — Participant
+- 🏆 **Amazon 6.0 Hackathon** — Participant
+- 🏆 **IPL Crunch 2K26 Hackathon by Wooble** — Participant
+- 🏆 **CashKaro Brand Ambassador** — Participant
+
+</details>
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br/>
 
 | Certification | Issuer |
-|--------------|--------|
+|---|---|
 | ☁️ AWS Solutions Architecture | Amazon Web Services |
-| 🤖 Tata GenAI | Tata Group |
-| 🔐 Tata Cybersecurity | Tata Group |
+| 🤖 GenAI | Tata Group |
+| 🔐 Cybersecurity | Tata Group |
 | 🚄 Siemens Mobility | Siemens |
 | 🔗 Hashgraph | Hedera |
 | 💡 Prompt Engineering with GitHub Copilot | Simplilearn |
@@ -178,27 +241,28 @@ and **cognifyz technologies**
 | 🏢 AI for Business Professionals | HP Life |
 | 📘 AI for Beginners | HP Life |
 | 📊 Introduction to Data Science & Analytics | HP Life |
-| 🏆 Hackaura 2K26 Hackathon | Participant |
+| 📈 Applied Data Analysis | Skillsoft |
+| 📉 Data Analysis Concepts | Skillsoft |
+| 👔 Data Analytics for Managers | Skillsoft |
+| 🧮 Machine Learning and Data Analytics | Skillsoft |
 
----
+</details>
+
+<br/>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shashidhar-toragal-ba3146357)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shashi7474)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:storagal4@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B91_9945617674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919945617474)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFF7&labelColor=000000)](https://linkedin.com/in/shashidhar-toragal-ba3146357)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=B026FF&labelColor=000000)](https://github.com/Shashi7474)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFF7&labelColor=000000)](mailto:storagal4@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=B026FF&labelColor=000000)](tel:+919945617674)
 
-</div>
+<br/><br/>
 
----
+*"Turning data into decisions, and ideas into impactful software."* ⚡
 
-<div align="center">
-
-*"Turning data into decisions, and ideas into impactful software."*
-
-**⭐ From [Shashi7474](https://github.com/Shashi7474) — Dharwad, Karnataka 🇮🇳**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
